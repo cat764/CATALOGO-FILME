@@ -1,0 +1,35 @@
+div{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    width: 200px;
+}
+
+input{
+    border-radius: 7px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.botao{
+    width: 70px;
+    position: absolute;
+    top: 450px;
+    left: 700px;
+}
+#icone {
+    position: absolute;
+    top: 450px;
+    left: 790px;
+}
+
+label{
+    font-size: 20px;
+}

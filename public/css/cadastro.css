@@ -1,0 +1,39 @@
+.adicionar_filmes{
+    font-size: 14px;
+    color: white;
+    border: 2px solid;
+    border-radius: 40px;
+    margin: 50px;
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    top: 100px; left: 450px;
+   
+    
+}
+
+body{
+    background-image: url(/catalogo-filmes/assets/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    color: white;
+}
+
+#tamanho_descricao{
+    height: 300px;
+    width: 300px;  
+}
+
+input{
+    align-items: first baseline;
+    inset-inline-start: baseline;
+}
